@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPatternEx2", "FactoryPatternEx2\FactoryPatternEx2.csproj", "{F767C909-E4E7-4BAF-BF0E-0C981784802F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F767C909-E4E7-4BAF-BF0E-0C981784802F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F767C909-E4E7-4BAF-BF0E-0C981784802F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F767C909-E4E7-4BAF-BF0E-0C981784802F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F767C909-E4E7-4BAF-BF0E-0C981784802F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0673A14C-51D5-4B8D-94A7-19A05809A182}
+	EndGlobalSection
+EndGlobal
